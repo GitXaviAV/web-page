@@ -1,0 +1,21 @@
+@keyframes main_aparecerarriba{
+	from{
+		opacity: 0;
+		margin-left:  -1500px;
+	}
+	to{
+		opacity: 0.8;
+		margin-left:  0;
+	}
+}
+
+@webkit-keyframes main_aparecerarriba{
+	from{
+		opacity: 0;
+		margin-left: -1500px;
+	}
+	to{
+		opacity: 0.8;
+		margin-left: 0;
+	}
+}
